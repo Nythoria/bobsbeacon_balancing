@@ -1,0 +1,13 @@
+{
+    "name": "bobsbeacon_balancing",
+    "version": "1.0.0",
+    "title": "✔ Nythoria's Bob's Beacon Balancing",
+    "author": "Nythoria",
+    "factorio_version": "1.1",
+    "dependencies": [
+      "bobmodules >= 0.16.0",
+      "? bobelectronics >= 0.16.0",
+      "? CircuitProcessing"
+    ],
+    "description": "Rebalanced the Beacon which come with Bob's Mobules"
+  }
