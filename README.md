@@ -1,1 +1,2 @@
+# Bob's Beacon Balancing
 This mod will require Bobs Modules to function and will rebalance the Beacons from 2>4>6 Slots to 2>3>4 Slots and will make all 3 tiers have the same range to stop some of the wacky configurations you can use with Bobs Modules by default like having 3 banks of Beacons all affecting one machine each with 6 Modules each so this will reduce the max number of Effect Sources from a ludicrous 60 by default to a much more resonable 12
